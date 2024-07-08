@@ -1,11 +1,8 @@
-## My Project
+## VisionOS sample app with Unity
 
-TODO: Fill this README out!
+This example project is to demonstrate building Unity VisionPro apps on AWS. Please refer to this blog for more details.
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This project code is initialized by Unity's template for a VisionOS application, adding a [`Jenkinsfile`](./Jenkinsfile) to call a build job from Jenkins.
 
 ## Security
 
